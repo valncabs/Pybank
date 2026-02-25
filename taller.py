@@ -1,4 +1,1 @@
-print("hello world")
-print("hi")
-
-pregunta = print(input('Que edad tienen?: '))
+saldo = 1000
