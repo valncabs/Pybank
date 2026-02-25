@@ -1,3 +1,4 @@
+print ("Hola mundo")
 def cajero_automatico():
     saldo = 1000
     print("Bienvenido al cajero automático")
