@@ -1,3 +1,4 @@
+#Jesus Hernandez #Kevin Pino #Sebastian Arevalo
 opcion = "3"
 if opcion == "3":
         #opcion 3
@@ -8,3 +9,9 @@ if opcion == "3":
         if monto > 0:
             saldo += monto
             print(f"usted ingreso con exito {saldo} a su cuenta")
+        else:
+            #validacion de las opciones
+            print ("opcion invalida")
+        
+# finalizacion del cajero:
+print("\nGracicas por usar el cajero automatico.")   
