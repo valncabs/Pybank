@@ -1,4 +1,5 @@
-elif opcion == "3":
+opcion = "3"
+if opcion == "3":
         #opcion 3
         monto = float(input("ingrese el monto que desea depositar: "))
         while monto < 0:
@@ -7,8 +8,3 @@ elif opcion == "3":
         if monto > 0:
             saldo += monto
             print(f"usted ingreso con exito {saldo} a su cuenta")
-    
-    else:
-        #validacion de las opciones
-        print ("opcion invalida")
-        
