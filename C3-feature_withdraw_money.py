@@ -12,6 +12,8 @@ if opcion == "3":
         else:
             #validacion de las opciones
             print ("opcion invalida")
+    
         
+
 # finalizacion del cajero:
 print("\nGracicas por usar el cajero automatico.")   
