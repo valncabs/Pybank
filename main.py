@@ -8,8 +8,8 @@ for i in range(n_de_operaciones):
     opcion = input("por favor ingrese la opcion: ")
 
     if opcion == "1":
+        #opcion 1
         print("su saldo es", saldo)
-    #Jesus Hernandez #Kevin Pino #Sebastian Arevalo
 
     if opcion == "2":
         #opcion 2
@@ -33,6 +33,7 @@ for i in range(n_de_operaciones):
         if monto > 0:
             saldo += monto
             print(f"usted ingreso con exito {saldo} a su cuenta")
+            
     if opcion not in ["1", "2", "3"]:
         print("opcion no valida, vuelva a intentar")    
     
