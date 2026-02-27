@@ -39,7 +39,8 @@ for i in range(n_de_operaciones):
     
         
 
-# finalizacion del cajero:
+# finalizacion del cajero :
+
 print("\nGracicas por usar el cajero automatico.")   
 
 
