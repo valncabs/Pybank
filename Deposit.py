@@ -15,4 +15,4 @@
         
         
 # finalizacion del cajero:
-print("\nGracicas por usar el cajero automatico.")
+print("Gracicas por usar el cajero automatico.")
